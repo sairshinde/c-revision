@@ -1,0 +1,42 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Feb 22 12:07:19 2018
+
+@author: amitk
+
+this is a sample program
+"""
+
+num1 = 100
+num2 = 200
+answer = num1 + num2
+print(answer)
+
+first_name = "amit"
+# 1name = "test"
+name1 = "test"
+
+# print print functions help
+print(print.__doc__)
+name = "test"; name1 = "test1";
+
+result = 100 + 200 + 299 + 234 + \
+334 + 343 + 4343 \
++ 33434 + 3434
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
